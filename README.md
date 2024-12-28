@@ -19,3 +19,5 @@
 ✅ Payment Gateways - paypal, Stripe, Braintree, Payfort, Razorpay and 10+ more
 
 ✅ DevOp/Server side infrastructure management - AWS, AZURE, Google Cloud
+
+Contact me: Email: klid1991@ukr.net, Linkedin: [in/serhii-klid-00266b340](https://www.linkedin.com/in/serhii-klid-00266b340/)
